@@ -3,5 +3,5 @@
 	url = https://github.com/Vimux/Mainroad.git
 [submodule "public"]
 	path = public
-	url = https://github.com/Ootori008/ootori.github.io.git
+	url = https://github.com/Ootori008/Ootori008.github.io.git
 	branch = master

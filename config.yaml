@@ -4,12 +4,12 @@ title : Ootori's Home
 paginate : 5
 theme : mainroad
 
-Author:
+Author :
   name : "Ootori"
   bio : "とある好奇心旺盛な自称技術者"    
   avatar : "/img/others/avatar.jpg"
 
-Params:
+Params :
   subtitle : "Ootori のホームページへようこそ(+_+)"
   GitHubUser : "Ootori008"
   description : "Ootori's Personal blog about everything" # Site description. Used in meta description
@@ -18,15 +18,15 @@ Params:
   post_navigation : true # Show post navigation at bottom of pages if true
   authorbox : true # Show authorbox at bottom of pages if true
   post_meta : ["date", "categories"]
-  hasCJKLanguage: true
+  hasCJKLanguage : true
   custom_css : ["/css/custom.css"]
 
-  sidebar:
+  sidebar :
     home : right # Configure layout for home page
     list : left  # Configure layout for list pages
     single : false # Configure layout for single pages
     widgets : ["search", "recent", "categories", "taglist", "social"]
 
-  widgets:
+  widgets :
     recent_num : 5 # Set the number of articles in the "Recent articles" widget
     tags_counter : false # Enable counter for each tag in "Tags" widget

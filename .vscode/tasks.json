@@ -7,15 +7,13 @@
             "label": "Hugo server",
             "type": "shell",
             "command": "hugo server -D",
-            "group": {
-                "kind": "build",
-                "isDefault": true
-            }
+            "group": "build"
         }, 
         {
             "label": "Hugo build",
             "type": "shell",
-            "command": "hugo -D"
+            "command": "hugo",
+            "group": "build"
         },
         {
             "label": "chmod",

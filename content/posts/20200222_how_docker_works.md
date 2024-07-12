@@ -3,7 +3,7 @@ title : "感想：How Docker Works - Intro to Namespaces"
 date : 2020-02-23T23:15:22+09:00
 draft : true
 isCJKLanguage : true
-thumbnail : "/img/posts/20200222/thumbnail.png"
+thumbnail : "/img/posts/20200222_how_docker_works/thumbnail.png"
 catagories :
   - "tech"
 tags :
@@ -17,6 +17,6 @@ LiveOverflowさんがまた興味深い動画をアップロードした。
 
 ---
 
-![img](/img/posts/20200222/0001.png)
+![img](/img/posts/20200222_how_docker_works/0001.png)
 
 動画の内容を簡単にまとめた。つまり、

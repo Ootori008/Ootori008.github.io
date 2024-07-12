@@ -1,16 +1,16 @@
 baseURL = "https://ootori008.github.io"
 languageCode = "ja-jp"
-title = "Ootori's Home"
+title = "Ootori's Blog"
 paginate = 5 # Number of posts per page
 theme = "mainroad"
 
 [author]
   name = "Ootori"
-  bio = "とある好奇心旺盛な自称エンジニア"    
+  bio = "とある好奇心旺盛なエンジニア"    
   avatar = "/img/others/avatar.jpg"
 
 [params]
-  subtitle = "Ootori のホームページへようこそ(+_+)"
+  subtitle = "Ootoriのブログへようこそ(+_+)"
   GitHubUser = "Ootori008"
   description = "Ootori's Personal blog about everything" # Site description. Used in meta description
   copyright = "Ootori" # Footer copyright holder, otherwise will use site title

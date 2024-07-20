@@ -19,4 +19,4 @@ LiveOverflowさんがまた興味深い動画をアップロードした。
 
 ![img](/img/posts/20200222_how_docker_works/0001.png)
 
-動画の内容を簡単にまとめた。つまり、
+TBD

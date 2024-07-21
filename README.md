@@ -4,7 +4,7 @@
 
 必须：`Git`，`Hugo`，`VSCode`
 
-可选：`PowerToys`(image resize)
+可选：`PowerToys`(For Image Resizer)
 
 ### 添加文章
 
@@ -17,6 +17,8 @@
 ### 添加图片
 
 在`xxxx.md`编辑界面里粘贴图片即可。图片会保存在`static/img/posts/xxxx/*`里，（因为`.vscode/settings.json`里的设置）。然后把生成的图片的url里的`/img/posts/xxxx/*`前面的路径删除。
+
+原图片一般有几MB，最好使用`PowerToys`的`Image Resizer`调整图片大小到适合大小。可以在文章编辑完毕后一起调整并覆盖原图片。
 
 ### 测试预览
 

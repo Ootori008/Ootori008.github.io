@@ -1,7 +1,7 @@
 baseURL = "https://ootori008.github.io"
 languageCode = "ja-jp"
 title = "Ootori's Blog"
-paginate = 5 # Number of posts per page
+paginate = 10 # Number of posts per page
 theme = "mainroad"
 
 [author]

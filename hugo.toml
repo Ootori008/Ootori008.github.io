@@ -4,14 +4,13 @@ title = "Ootori's Blog"
 paginate = 10 # Number of posts per page
 theme = "mainroad"
 
-[author]
+[Author]
   name = "Ootori"
   bio = "とある好奇心旺盛なエンジニア"    
   avatar = "/img/others/avatar.jpg"
 
-[params]
+[Params]
   subtitle = "Ootoriのブログへようこそ(+_+)"
-  GitHubUser = "Ootori008"
   description = "Ootori's Personal blog about everything" # Site description. Used in meta description
   copyright = "Ootori" # Footer copyright holder, otherwise will use site title
   toc = true # Enable Table of Contents
@@ -21,21 +20,21 @@ theme = "mainroad"
   hasCJKLanguage = true
   custom_css = ["/css/custom.css"]
 
-  [params.logo]
+  [Params.logo]
     image = "/img/others/avatar.jpg"
 
-  [params.sidebar]
+  [Params.sidebar]
     home = "right" # Configure layout for home page
     list = "left"  # Configure layout for list pages
     single = false # Configure layout for single pages
     # Enable widgets in given order
     widgets = ["search", "recent", "categories", "taglist", "social"]
 
-  [params.widgets]
+  [Params.widgets]
     recent_num = 5 # Set the number of articles in the "Recent articles" widget
     tags_counter = false # Enable counter for each tag in "Tags" widget
 
-  [params.widgets.social]
+  [Params.widgets.social]
     cached = false # activate cache if true
     # Enable parts of social widget
     github = "Ootori008"

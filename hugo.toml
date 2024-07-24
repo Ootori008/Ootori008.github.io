@@ -40,3 +40,6 @@ theme = "mainroad"
     # Enable parts of social widget
     github = "Ootori008"
     # email = "example@example.com"
+
+  [Params.thumbnail]
+    visibility = ["list"] # Control thumbnail visibility

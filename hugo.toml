@@ -10,18 +10,17 @@ theme = "mainroad"
   avatar = "/img/others/avatar.jpg"
 
 [Params]
-  subtitle = "Ootoriのブログへようこそ(+_+)"
   description = "Ootori's Personal blog about everything" # Site description. Used in meta description
   copyright = "Ootori" # Footer copyright holder, otherwise will use site title
   toc = true # Enable Table of Contents
   post_navigation = true # Show post navigation at bottom of pages if true
   authorbox = true # Show authorbox at bottom of pages if true
-  post_meta = ["date", "categories"]
+  post_meta = ["date", "categories"] # Order of post meta information
   hasCJKLanguage = true
-  custom_css = ["/css/custom.css"]
 
   [Params.logo]
     image = "/img/others/avatar.jpg"
+    subtitle = "Welcome to Ootori's Blog (+_+)!"
 
   [Params.sidebar]
     home = "right" # Configure layout for home page

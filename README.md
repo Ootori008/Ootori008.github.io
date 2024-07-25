@@ -20,6 +20,8 @@
 
 原图片一般有几MB，最好使用`PowerToys`的`Image Resizer`调整图片大小到适合大小。可以在文章编辑完毕后一起调整并覆盖原图片。
 
+`thumbnail`用自定义的160*120大小。正常照片用`large`设定。同时勾选所有的选项（覆盖原文件，去除图片信息之类）。
+
 ### 测试预览
 
 `Ctrl+Shift+p`执行`Tasks: Run Task`,`Hugo server`。在VSCode的浏览器中打开`http://localhost:1313`
